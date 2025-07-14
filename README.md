@@ -1,2 +1,2 @@
 # dotnet-pdf-to-text-converter
-App that converts a PDF file into a test file
+App that converts a PDF file into a text file
